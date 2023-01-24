@@ -154,6 +154,8 @@ urlpatterns = [
 ### With numerical input:
 ![output](/ssp.png)
 
+## HTML VALIDATOR:
+![output](/htmlv.png)
 
 ## Result:
 Therefor the above codes are successfully executed to run server side programming and do athematical calcualtions and it is published in the following url.
